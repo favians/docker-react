@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Moh astaga
+          Learn React Moh for travis
         </a>
       </header>
     </div>
